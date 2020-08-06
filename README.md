@@ -1,5 +1,5 @@
 # prop-cast
-Forecasting property index heatmaps with spatio-temporal CNNs and inception-convolutional LSTMs with TensorFlow.
+Forecasting property index heatmaps with spatio-temporal CNNs and inception-convolutional LSTMs built over TensorFlow.
 
 ![alt text](https://imgur.com/mGG5Pr6.png)
 
